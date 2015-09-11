@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/victorquinn/chancejs-cli"
+  "repository": "victorquinn/chancejs-cli",
+  "bin": {
+    "chance": "./chance.js"
   },
-  "bin": "./chance.js",
+  "preferGlobal": true,
   "keywords": [
     "random",
     "chance",
