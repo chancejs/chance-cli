@@ -1,5 +1,5 @@
 {
-  "name": "chancejs-cli",
+  "name": "chance-cli",
   "version": "1.0.0",
   "description": "Chance CLI - random generator for the command line",
   "main": "index.js",
