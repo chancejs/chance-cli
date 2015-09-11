@@ -17,7 +17,7 @@ Install globally so it can be used anywhere on your system:
 Then just use it!
 
 ```bash
-$ chancesentence
+$ chance sentence
 Sikolnul risuz issi ah re gul unagacire mo fu nuuwazek wihnus tagit bolome.
 ```
 
