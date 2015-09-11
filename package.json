@@ -1,6 +1,6 @@
 {
   "name": "chance-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chance CLI - random generator for the command line",
   "main": "index.js",
   "scripts": {
