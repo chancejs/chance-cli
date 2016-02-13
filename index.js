@@ -67,7 +67,6 @@ program
     })
     .parse(process.argv);
 
-console.log('SNTH', program.args.length);
 if (program.args.length < 1) {
     process.stderr.write('Chance: you must supply a generator');
 }
