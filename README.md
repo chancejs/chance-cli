@@ -2,7 +2,7 @@
 
 [![Chance Logo](http://chancejs.com/logo.png)](http://chancejs.com)
 
-[![GitHub license](https://img.shields.io/github/license/victorquinn/chancejs-cli.svg)] [![GitHub stars](https://img.shields.io/github/stars/victorquinn/chancejs-cli.svg)](https://github.com/victorquinn/chancejs-cli) [![npm](https://img.shields.io/npm/dm/chance-cli.svg)](https://npmjs.com/package/chance-cli) [![npm](https://img.shields.io/npm/v/chance-cli.svg)](https://npmjs.com/package/chance-cli) [![awesomeness](https://img.shields.io/badge/awesomeness-maximum-red.svg)](https://github.com/victorquinn/chancejs)
+[![GitHub license](https://img.shields.io/github/license/chancejs/chancejs-cli.svg)] [![GitHub stars](https://img.shields.io/github/stars/chancejs/chancejs-cli.svg)](https://github.com/chancejs/chancejs-cli) [![npm](https://img.shields.io/npm/dm/chance-cli.svg)](https://npmjs.com/package/chance-cli) [![npm](https://img.shields.io/npm/v/chance-cli.svg)](https://npmjs.com/package/chance-cli) [![awesomeness](https://img.shields.io/badge/awesomeness-maximum-red.svg)](https://github.com/chancejs/chancejs)
 
 Chance CLI - random generator for the command line
 
@@ -84,4 +84,4 @@ $ chance hash | pbcopy
 
 ### Victor Quinn
 
-<a href="https://twitter.com/victorquinn" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @victorquinn</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> | [GitHub](https://github.com/victorquinn) | [http://victorquinn.com](http://victorquinn.com) | [OneName](https://onename.com/victor)
+<a href="https://twitter.com/victorquinn" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @victorquinn</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> | [GitHub](https://github.com/chancejs) | [http://victorquinn.com](http://victorquinn.com) | [OneName](https://onename.com/victor)

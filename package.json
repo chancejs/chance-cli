@@ -1,12 +1,12 @@
 {
   "name": "chance-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Chance CLI - random generator for the command line",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "victorquinn/chancejs-cli",
+  "repository": "chancejs/chancejs-cli",
   "bin": {
     "chance": "./chance.js"
   },
@@ -21,9 +21,9 @@
   "author": "Victor Quinn <mail@victorquinn.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/victorquinn/chancejs-cli/issues"
+    "url": "https://github.com/chancejs/chancejs-cli/issues"
   },
-  "homepage": "https://github.com/victorquinn/chancejs-cli#readme",
+  "homepage": "https://github.com/chancejs/chancejs-cli#readme",
   "dependencies": {
     "chalk": "^1.1.1",
     "chance": "^0.7.7",
