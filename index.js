@@ -7,8 +7,6 @@ var R = require('ramda');
 
 var program = require('commander');
 
-console.log('SNTH', process.argv);
-
 program
     .version('0.0.1')
     .option('-s, --seed [seed]', 'seed for the random number generator')
@@ -18,8 +16,6 @@ program
 
         var result = null;
         var error = null;
-        console.log('generator: ', generator);
-        console.log('args: ', args);
         var options = require('minimist')(program.rawArgs.slice(3), { string: 'pool' });
 
         // Note, this is potentially dangerous as it prevents users from having
