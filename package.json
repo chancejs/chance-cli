@@ -8,7 +8,7 @@
   },
   "repository": "chancejs/chancejs-cli",
   "bin": {
-    "chance": "./chance.js"
+    "chance": "./index.js"
   },
   "preferGlobal": true,
   "keywords": [
