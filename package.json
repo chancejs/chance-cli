@@ -4,7 +4,7 @@
   "description": "Chance CLI - random generator for the command line",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": "chancejs/chancejs-cli",
   "bin": {
@@ -30,5 +30,9 @@
     "commander": "^2.8.1",
     "minimist": "^1.2.0",
     "ramda": "^0.17.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
