@@ -2,7 +2,11 @@
 
 [![Chance Logo](http://chancejs.com/logo.png)](http://chancejs.com)
 
-[![GitHub license](https://img.shields.io/github/license/chancejs/chancejs-cli.svg)] [![GitHub stars](https://img.shields.io/github/stars/chancejs/chancejs-cli.svg)](https://github.com/chancejs/chancejs-cli) [![npm](https://img.shields.io/npm/dm/chance-cli.svg)](https://npmjs.com/package/chance-cli) [![npm](https://img.shields.io/npm/v/chance-cli.svg)](https://npmjs.com/package/chance-cli) [![awesomeness](https://img.shields.io/badge/awesomeness-maximum-red.svg)](https://github.com/chancejs/chancejs)
+[![GitHub license](https://img.shields.io/github/license/chancejs/chancejs-cli.svg)](https://github.com/chancejs/chance-cli/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/chancejs/chancejs-cli.svg)](https://github.com/chancejs/chancejs-cli)
+[![npm](https://img.shields.io/npm/dm/chance-cli.svg)](https://npmjs.com/package/chance-cli)
+[![npm](https://img.shields.io/npm/v/chance-cli.svg)](https://npmjs.com/package/chance-cli)
+[![awesomeness](https://img.shields.io/badge/awesomeness-maximum-red.svg)](https://github.com/chancejs/chancejs)
 
 Chance CLI - random generator for the command line
 
