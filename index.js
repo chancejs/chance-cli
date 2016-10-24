@@ -33,13 +33,12 @@ program
                 return true;
             } else if (item === 'false') {
                 return false;
-            } else if (!isNaN(parseFloat(item, 10))) {                
+            } else if (!isNaN(parseFloat(item, 10))) {
                 return parseFloat(item);
             } else {
                 return item;
             }
-        }, options);
-        console.log(options);
+        }, options);        
 
         if (generator && chance[generator]) {
             result = chance[generator](options);
