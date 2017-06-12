@@ -12,7 +12,7 @@ program
     .option('-s, --seed [seed]', 'seed for the random number generator')
     .arguments('<generator> [args...]')
     .action(function(generator, args, program) {
-        var chance = program.seed ? Chance(program.seed) : Chance();
+        var chance = program.seed ? new Chance(program.seed) : new Chance();
 
         var result = null;
         var error = null;
