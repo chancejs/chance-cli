@@ -1,6 +1,6 @@
 {
   "name": "chance-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Chance CLI - random generator for the command line",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "homepage": "https://github.com/chancejs/chancejs-cli#readme",
   "dependencies": {
     "chalk": "^1.1.1",
-    "chance": "^1.0.4",
+    "chance": "^1.0.10",
     "commander": "^2.8.1",
     "minimist": "^1.2.0",
     "ramda": "^0.17.1"
